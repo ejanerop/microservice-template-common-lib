@@ -1,4 +1,4 @@
-package com.janero.microservice.template.common;
+package com.janero.template.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
